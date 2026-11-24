@@ -34,7 +34,7 @@ Cython - это и язык программирования, и компиля�
   - [ЧАВО](https://cython.readthedocs.io/en/latest/src/userguide/faq.html)
 
 - Программирование и Си:
-  - [Введение в профессию - Столяров А.В.](http://www.stolyarov.info/books/programming_intro)
+  - [Введение в профессию (Столяров А.В.)](http://www.stolyarov.info/books/programming_intro) - полезные книги, можно [поддержать автора](http://www.stolyarov.info/donate.html)
 
 - [Jupyter](https://jupyter.org/) - интерфейс, в котором были написаны эти заметки.
 - [UV](https://docs.astral.sh/uv/) - больше чем просто проектный менеджер.
